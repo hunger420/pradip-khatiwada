@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Digital Krishi Bazaar Nepal",
+  "description": "A premier agricultural marketplace connecting Nepalese farmers directly to buyers with AI-powered market insights and crop diagnostics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
